@@ -1,0 +1,11 @@
+{
+    "id": "jimbosballbattles",
+    "name": "Jimbo's Ball Battles",
+    "author": ["PSRPulsar"],
+    "description": "Deck skins themed after Ham's Ball Battles. Comes with normal and high contrasts for each suit, and an additional set that are the actual weaponballs themselves. (fanmade, characters and HBB belong to Hamvangolio)",
+    "prefix": "jbb",
+    "main_file": "main.lua",
+    "version": "1.0.0",
+    "badge_colour": "9f0800",
+    "icon_path": "icon.png"
+}

@@ -9,4 +9,4 @@ Comes with a set for human(ish) versions of the characters, and another with the
 # Install Info
 
 This requires [Lovely](https://github.com/ethangreen-dev/lovely-injector) and [Steamodded](https://github.com/Steamodded/smods), follow their install instructions beforehand.
-Afterward, simply take the .zip from the release and place the unzipped contents into your Mods folder, same as how Steamodded was installed
+Afterward, simply take the folder inside the .zip folder and place it in your Mods folder, similar to how you installed Steamodded
